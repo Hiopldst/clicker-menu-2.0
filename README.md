@@ -1,4 +1,4 @@
-# Clicker menu 2.0
+# clicker menu 2.0
 
 A simple clicker game built with Python and Tkinter.
 
